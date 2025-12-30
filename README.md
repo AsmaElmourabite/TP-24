@@ -22,9 +22,9 @@ The project is composed of the following services:
 - [Docker](https://www.docker.com/get-started) installed on your machine.
 
 ## 🏃‍♂️ Getting Started
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](tp-24-1.jpg)
+![alt text](tp-24-2.jpg)
+
 
 1. **Clone the repository** (if not already done).
 
